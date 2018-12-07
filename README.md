@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-* [Methods](#methods)
+  * [Methods](#methods)
 2. [History](#history)
 3. [References](#references)
 
