@@ -18,7 +18,7 @@ SearchView is a search widget that provides a user interface to direct search fo
 SearchView was first added to Android 3.0 API 11 for material design.
 
 ### Example
-For a project sample of SearchView click here.
+For a project sample of SearchView click [here](https://github.com/PrincessHernandez/SearchView/tree/master/Code).
 <br/> You will see in this project of SearchView over layout that reaches data in a ListView.
 
 ### References
